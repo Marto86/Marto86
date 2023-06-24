@@ -1,7 +1,7 @@
 ### Hi there 👋
-I🔭’m currently working on self development .                                         
+Every day working on self development .                                         
 
-🌱 I’m currently learning C/C++ (embedded systems) .                                             
+🌱 I’m currently work with Python and  C/C++ (embedded systems) .                                             
 
 💬 Ask me about Evrything.
 
